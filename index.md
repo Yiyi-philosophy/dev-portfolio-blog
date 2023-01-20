@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hey, I think you stole my dog - John Wick
+home_text: A will find a way - Orison Swett Marden
 title: Rohit Jain
 ---
